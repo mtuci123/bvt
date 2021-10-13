@@ -1,1 +1,1 @@
-print (fkkjbsklj)
+print (a)
